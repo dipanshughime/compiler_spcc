@@ -1,4 +1,5 @@
 %option noyywrap
+
 %{
 #include <stdio.h> 
 int word_count = 0; 
